@@ -11,8 +11,13 @@ riderModule.iml
 
 # dotenv files
 .env
-.xml
-.json
+
+# Environment-specific settings (keep base appsettings.json tracked)
+appsettings.json
+appsettings.local.json
+*.local.json
+
+.idea
 
 # User-specific files
 *.rsuser
