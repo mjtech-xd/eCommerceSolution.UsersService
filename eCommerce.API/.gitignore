@@ -479,6 +479,11 @@ $RECYCLE.BIN/
 *.msm
 *.msp
 
+.idea/
+bin/
+obj/
+.vs/
+
 # Windows shortcuts
 *.lnk
 
